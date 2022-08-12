@@ -18,7 +18,7 @@
 
 <a href="https://velog.io/@eora21" target="_blank"><img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white"/></a> <a href="https://blog.naver.com/eora21" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
-![eora21's GitHub stats](https://github-readme-stats.vercel.app/api?username=eora21&theme=algolia&show_icons=true)
+![eora21's GitHub stats](https://github-readme-stats.vercel.app/api?username=eora21&theme=algolia&hide=issues,contribs&show_icons=true)
 <!--
 **eora21/eora21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

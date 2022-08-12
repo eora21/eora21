@@ -4,8 +4,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eora21)](https://solved.ac/eora21/)
 
-![eora21's GitHub stats](https://github-readme-stats.vercel.app/api?username=eora21&theme=algolia&hide=issues,contribs&show_icons=true)
-
 ## 🛠️ Tools & Skills
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -19,6 +17,8 @@
 ## 📫 Reach me
 
 <a href="https://velog.io/@eora21" target="_blank"><img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white"/></a> <a href="https://blog.naver.com/eora21" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/></a>
+
+![eora21's GitHub stats](https://github-readme-stats.vercel.app/api?username=eora21&theme=algolia&hide=issues,contribs&show_icons=true)
 
 <!--
 **eora21/eora21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
